@@ -5,6 +5,7 @@
 /// The parking lot has three kinds of parking spaces:
 /// big, medium, and small,
 /// with a fixed number of slots for each size.
+
 Demo(["ParkingSystem", "addCar", "addCar", "addCar", "addCar"], [[1, 1, 0], [1], [2], [3], [1]]);
 Console.ReadKey();
 
